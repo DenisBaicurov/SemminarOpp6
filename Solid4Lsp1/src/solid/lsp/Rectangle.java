@@ -1,4 +1,4 @@
-package solid.lsp;
+package lsp;
 
 public class Rectangle {
     private int sideA;
@@ -25,7 +25,13 @@ public class Rectangle {
         this.sideB = sideB;
     }
 
+
     public int getArea() {
         return sideA * sideB;
     }
+
+
+
+
+
 }

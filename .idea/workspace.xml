@@ -2,17 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a32f586-4b68-47c5-9025-8c74db9bb25c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/SolidDip/SolidDip.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidLsp1/SolidLsp1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidLsp2/SolidLsp2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidOcp1/SolidOcp1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidSip1/SolidSip1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidSrp2/SolidSrp2.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/src/homework/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/src/homework/NameOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/src/homework/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid1Srp1/src/solid/srp/solid/srp/CreateFigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid1Srp1/src/solid/srp/solid/srp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid2Srp2/src/solid/srp/models/ConsoleInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid2Srp2/src/solid/srp/models/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid2Srp2/src/solid/srp/models/SaveManagamer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/solid/ocp/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/solid/ocp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid4Lsp1/src/solid/lsp/ViewShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/solid/lsp/AbstractOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/solid/lsp/OrderCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid6Isp1/src/solid/solid/isp/PayCreditCardPayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid6Isp1/src/solid/solid/isp/PayPhoneNumberPayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid6Isp1/src/solid/solid/isp/TerminalPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid6Isp1/src/solid/solid/isp/WebMoneyPayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid7Dip/src/solid3/dip/ConsoleOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid7Dip/src/solid3/dip/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid7Dip/src/solid3/dip/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid7Dip/src/solid3/dip/ReportOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/META-INF/Solid.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/NameOutput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/Persister.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/dip/ConsoleOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/dip/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/dip/PrintReport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/dip/Report.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/dip/ReportItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/dip/ReportOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/lsp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/lsp/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/lsp/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/lsp/ViewShape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/isp/InternetPaymentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/isp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/isp/PayCreditCardPayable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/isp/PayPhoneNumberPayable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/isp/TerminalPaymentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/isp/WebMoneyPayable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/lsp/AbstractOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/lsp/FactoryOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/lsp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/lsp/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/lsp/OrderBonus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/lsp/OrderCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/ocp/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/ocp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/ocp/RightTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/ocp/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/ocp/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/srp/CreateFigure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/srp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/srp/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/solid/srp/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/srp/models/ConsoleInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/srp/models/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/srp/models/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Solid/srp/models/SaveManagamer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/Persister.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/src/homework/Persister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Solid.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid1Srp1/src/solid/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid1Srp1/src/solid/srp/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid1Srp1/src/solid/srp/solid/srp/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid1Srp1/src/solid/srp/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid1Srp1/src/solid/srp/solid/srp/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid2Srp2/src/solid/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid2Srp2/src/solid/srp/models/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid2Srp2/src/solid/srp/models/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid3Ocp1/src/solid/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/RightTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/solid/ocp/RightTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/solid/ocp/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/solid/ocp/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid4Lsp1/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid4Lsp1/src/solid/lsp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid4Lsp1/src/solid/ViewShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid4Lsp1/src/solid/lsp/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid4Lsp1/src/solid/lsp/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid4Lsp1/src/solid/lsp/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid4Lsp1/src/solid/lsp/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid5Lsp2/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/solid/lsp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid5Lsp2/src/solid/OrderCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/FactoryOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/solid/lsp/FactoryOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/solid/lsp/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/OrderBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/solid/lsp/OrderBonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid6Isp1/src/solid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid6Isp1/src/solid/solid/isp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid6Isp1/src/solid/isp/InternetPaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid6Isp1/src/solid/solid/isp/InternetPaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid6Isp1/src/solid/isp/Payable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid6Isp1/src/solid/isp/TerminalPaymentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid7Dip/src/solid/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid7Dip/src/solid/dip/PrintReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid7Dip/src/solid3/dip/PrintReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid7Dip/src/solid/dip/Report.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solid7Dip/src/solid/dip/ReportItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Solid7Dip/src/solid3/dip/ReportItem.java" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,13 +121,120 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
-  }
-}]]></component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Solid7Dip/src/solid3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\OOP_Lesson6_Solid\Solid7Dip\src\solid\dip" />
+      <recent name="C:\Users\User\IdeaProjects\OOP_Lesson6_Solid\Solid5Lsp2\src\solid\lsp" />
+      <recent name="C:\Users\User\IdeaProjects\OOP_Lesson6_Solid\Solid6Isp1\src\solid\isp" />
+      <recent name="C:\Users\User\IdeaProjects\OOP_Lesson6_Solid\Solid3Ocp1\src\solid\ocp" />
+      <recent name="C:\Users\User\IdeaProjects\OOP_Lesson6_Solid\HomeWork\src\homework" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solid.srp.Main" />
+      <module name="Solid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solid.srp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsp.Main" />
+      <module name="Solid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solid.lsp.Main" />
+      <module name="Solid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solid.lsp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solid.isp.Main" />
+      <module name="Solid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solid.isp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dip.Main" />
+      <module name="Solid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7a32f586-4b68-47c5-9025-8c74db9bb25c" name="Changes" comment="" />
@@ -36,15 +242,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670342361684</updated>
+      <workItem from="1671034378380" duration="3583000" />
+      <workItem from="1671115941381" duration="1034000" />
+      <workItem from="1671117019621" duration="2624000" />
+      <workItem from="1671120345661" duration="3732000" />
+      <workItem from="1671294973914" duration="1595000" />
+      <workItem from="1671355079251" duration="650000" />
+      <workItem from="1671357147935" duration="31000" />
+      <workItem from="1671357290834" duration="12813000" />
+      <workItem from="1671371378271" duration="3200000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
